@@ -8,4 +8,4 @@ Use the arrow keys to move your spaceship. To shoot lasers, press either Z or CT
 Go to releases tab on Github
 ### Credits
 I took some sounds from royalty free websites. Thanks to them!
-Music in the game is from Dubmood. Thanks to them for the music, and how cool it is!
+Music in the game is from Dubmood and Zabutom. Thanks to them for the music, and how cool it is!
