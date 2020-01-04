@@ -5,4 +5,4 @@ Space 4 (and its other sequels) Is a infinite topdown shooter. In this game you 
 ### How to Play
 Use the arrow keys to move your spaceship. To shoot lasers, press either Z or CTRL.
 ### Downloads
-[Download](https://github.com/SJRNoodles/s4inst/archive/1.0.zip) Only  for Windows!
+Go to releases tab on Github
